@@ -1,0 +1,36 @@
+body {
+  background-color: #ffffff;
+}
+
+.navbar-default .navbar-brand {
+  font-weight: bold;
+}
+
+.navbar-default .navbar-collapse {
+  background-color: #f2f2f2;
+}
+
+.navbar-default .navbar-collapse .nav > li > a {
+  color: #333;
+  padding: 12px 0;
+}
+
+.navbar-default .navbar-collapse .nav > li {
+  border-top: 1px solid #ddd;
+}
+
+.navbar-default .navbar-collapse .nav > li:last-child {
+  border-bottom: 1px solid #ddd;
+}
+
+.tall-section {
+  background-color: #e9ecef;
+  min-height: 1000px;
+  padding: 30px;
+  margin-bottom: 30px;
+}
+
+.tall-section h3 {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
